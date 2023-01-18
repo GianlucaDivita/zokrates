@@ -1,0 +1,48 @@
+{
+    "scheme": "g16",
+    "curve": "bn128",
+    "alpha": [
+      "0x1339daa192503eea785371ee146ee551f9f832fb6b779052bb65941b2fb3d08b",
+      "0x13470761fe72f9e57763f9f6e23ae69056d8067c8453739a7d84a52cc09e12a9"
+    ],
+    "beta": [
+      [
+        "0x003e854c2257c8ab2d214a7c4d1dcd14caf6a82ad2266b79bf81be4e888e41d7",
+        "0x2252ee2ba8a26a49db1b6b2d937a0eae934fe52f9da2566951de2af02dc4a94b"
+      ],
+      [
+        "0x0c4d7e1903f11dad6e699a3647a2a68522f0e848b2d6484926d90cb9ecc85403",
+        "0x08912ad20ba35d56021c6ec15c46a342945043de7be9bdce44d1de0fd74759e3"
+      ]
+    ],
+    "gamma": [
+      [
+        "0x1c911b877451c2bc76b363ce499af0581096bf754affc6cc6d3bea7083e99dd3",
+        "0x258653cc52523823da0816215d27dd96dc43d693ff488d4cc1035ef18af96e18"
+      ],
+      [
+        "0x054c358a0f102a34a8b273c1767e9745be828cd3873616abb464944a0d85c15d",
+        "0x195c2e3bff7bf28b89fb1c4b03f7bfb219636fb03105c16117db03749e2285e6"
+      ]
+    ],
+    "delta": [
+      [
+        "0x07f4ca43e3f71e099fe4d93f72c50238fbbf91e8fc0f0f50236c66d4084cdc29",
+        "0x0d866b9f5fcd22dd03c2ec30b28e371362960503864af1a3b02ea2cbc6d7eddf"
+      ],
+      [
+        "0x0837fc33c6a4464d0809799fdf95ceb071201f3ae5db7bf9b70107351f9c0b05",
+        "0x1dfac0a20b07cbd0dedf213275df7faa996124aed6f3c99343b73453c3c20384"
+      ]
+    ],
+    "gamma_abc": [
+      [
+        "0x22d5baa23e75a35975b3867d8561478831cbaf17d4e7d1ade5897a7f4717fa75",
+        "0x07075dd4efc3452d626d78542802c62a0244e82ccb09d6ccccd4e79ae0bf525f"
+      ],
+      [
+        "0x06261dd11463839bbdd2ce26f02357ec7a9d1b97055385593aecad4c4ab45b82",
+        "0x2b0af12efc6272b793a46fa5df6552aa2bf2ab9a708164d8d326282189c1ee6b"
+      ]
+    ]
+  }
